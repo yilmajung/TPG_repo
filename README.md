@@ -1,1 +1,1 @@
-This is a repository for TPG (Three Publication Group) collaboration projects.
+This is a repository for TPG (Three Publications Group) collaboration projects.
